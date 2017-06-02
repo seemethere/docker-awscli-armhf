@@ -1,7 +1,9 @@
 AWS cli in minimal footprint
 ============================
 
-Automatic built minimal docker image for AWS cli based on Alpine Linux (`library/alpine:latest`), around 77MB.
+Automatic built minimal docker image for AWS cli based on Alpine Linux for armhf architecture (`library/alpine:latest`), around 77MB.
+
+Forked from: https://github.com/anigeo/docker-awscli
 
 ## Usage
 ```
